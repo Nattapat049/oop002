@@ -1,6 +1,0 @@
-let energy = 10;
-while(energy > 0){
-    console.log("Energy: %d",energy);
-    energy--;
-}
-console.log("พลังงานหมดแล้ว ชาร์ต");
